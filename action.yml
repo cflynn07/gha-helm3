@@ -1,0 +1,5 @@
+name: 'GHA-Helm3'
+description: 'Simple action with helm3 client binary'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
